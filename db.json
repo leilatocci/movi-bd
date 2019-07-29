@@ -10,7 +10,7 @@
             "startTime": "1532698745",
             "endTime": "1619098",
             "leaIP": "1.1.1.1",
-            "sms": false,
+            "sms": true,
             "voz": true,
             "datos": false,
             "status": "Activa",
