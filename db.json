@@ -14,12 +14,12 @@
             "voz": true,
             "datos": true,
             "status": "Activa",
-            "notas":[],
+            "notes":[],
             "bitacora": [
                 {
                     "id": 108,
                     "number": "1167441531",
-                    "descripcion": "Se dio de alta la intercepcion 11674415311532698745 para la línea 1167441531",
+                    "description": "Se dio de alta la intercepcion 11674415311532698745 para la línea 1167441531",
                     "li_id": "11674415311532698745"
                 }
             ],
@@ -42,7 +42,7 @@
             "voz": true,
             "datos": true,
             "status": "Desconectada",
-            "notas":[
+            "notes":[
             	{
             	"id":1,
             	"detalle":"Es un usuario de movistar"
@@ -52,7 +52,7 @@
                 {
                     "id": 110,
                     "number": "1135746114",
-                    "descripcion": "Se dio de alta la intercepcion 11357461141532698745 para la línea 1135746114",
+                    "description": "Se dio de alta la intercepcion 11357461141532698745 para la línea 1135746114",
                     "li_id": "11357461141532698745"
                 },
                 {
@@ -84,7 +84,7 @@
             "voz": true,
             "datos": false,
             "status": "Desconectada",
-            "notas":[
+            "notes":[
             	{
             	"id":3,
             	"detalle":"Usuario de Tuenti"
@@ -98,13 +98,13 @@
                 {
                     "id": 113,
                     "number": "1135746114",
-                    "descripcion": "Se dio de alta la intercepcion 11357461141562698745 para la línea 1135746114",
+                    "description": "Se dio de alta la intercepcion 11357461141562698745 para la línea 1135746114",
                     "li_id": "11357461141562698745"
                 },
                 {
                     "id": 114,
                     "number": "1135746114",
-                    "descripcion": "Se dio de baja la intercepcion 11357461141562698745 para la línea 1135746114",
+                    "description": "Se dio de baja la intercepcion 11357461141562698745 para la línea 1135746114",
                     "li_id": "11357461141562698745"
                 }
             ],
