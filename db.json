@@ -100,6 +100,62 @@
             ]
         },
         {
+            "liid": "11674411532698745",
+            "number": "1167441531",
+            "numberType": "imei",
+            "enrute": "1165887896",
+            "imsi": "722010105143928",
+            "startTime": "1532698745",
+            "endTime": "1619098",
+            "leaIP": "1.1.1.1",
+            "sms": false,
+            "voz": true,
+            "datos": false,
+            "status": "Activa",
+            "notes":[],
+            "bitacora": [
+                {
+                    "id": 108,
+                    "number": "1167441531",
+                    "description": "Se dio de alta la intercepcion 11674415311532698745 para la línea 1167441531",
+                    "li_id": "11674415311532698745"
+                }
+            ],
+            "legalOrder": [
+                {
+                    "code": "OJ839748"
+                }
+            ]
+        },
+        {
+            "liid": "11674415311532698745",
+            "number": "1167441531",
+            "numberType": "imei",
+            "enrute": "1165887896",
+            "imsi": "722010105143928",
+            "startTime": "1532698745",
+            "endTime": "1619098",
+            "leaIP": "1.1.1.1",
+            "sms": false,
+            "voz": false,
+            "datos": true,
+            "status": "Activa",
+            "notes":[],
+            "bitacora": [
+                {
+                    "id": 108,
+                    "number": "1167441531",
+                    "description": "Se dio de alta la intercepcion 11674415311532698745 para la línea 1167441531",
+                    "li_id": "11674415311532698745"
+                }
+            ],
+            "legalOrder": [
+                {
+                    "code": "OJ839748"
+                }
+            ]
+        },
+        {
             "liid": "11357461141562698745",
             "number": "1135746114",
             "numberType": "telefono",
