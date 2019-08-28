@@ -11,8 +11,8 @@
             "endTime": "1619098",
             "leaIP": "1.1.1.1",
             "sms": true,
-            "voz": true,
-            "datos": true,
+            "voz": false,
+            "datos": false,
             "status": "Activa",
             "notes":[],
             "bitacora": [
@@ -38,9 +38,9 @@
             "startTime": "1532698745",
             "endTime": "1619098",
             "leaIP": "1.1.1.1",
-            "sms": true,
+            "sms": false,
             "voz": true,
-            "datos": true,
+            "datos": false,
             "status": "Desconectada",
             "notes":[
             	{
@@ -80,9 +80,9 @@
             "startTime": "1562698745",
             "endTime": "1649098",
             "leaIP": "1.1.1.1",
-            "sms": true,
-            "voz": true,
-            "datos": false,
+            "sms": false,
+            "voz": false,
+            "datos": true,
             "status": "Desconectada",
             "notes":[
             	{
@@ -127,7 +127,7 @@
             "endTime": "1619098",
             "leaIP": "1.1.1.1",
             "sms": true,
-            "voz": true,
+            "voz": false,
             "datos": true,
             "status": "Activa",
             "notes":[],
@@ -197,7 +197,7 @@
             "endTime": "1649098",
             "leaIP": "1.1.1.1",
             "sms": true,
-            "voz": true,
+            "voz": false,
             "datos": false,
             "status": "Desconectada",
             "notes":[
