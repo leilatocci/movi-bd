@@ -4,7 +4,7 @@
         {
             "liid": "11674415311532699999",
             "number": "1167441531",
-            "numberType": "imei",
+            "numberType": "IMEI",
             "enrute": "1165887896",
             "imsi": "722010105143928",
             "startTime": "1532698745",
@@ -32,7 +32,7 @@
         {
             "liid": "11357461141532698745",
             "number": "1135746114",
-            "numberType": "telefono",
+            "numberType": "Telefono",
             "enrute": "1165887896",
             "imsi": "722010105161674",
             "startTime": "1532698745",
@@ -74,7 +74,7 @@
         {
             "liid": "113574611415626977777",
             "number": "1135746114",
-            "numberType": "telefono",
+            "numberType": "Telefono",
             "enrute": "1165887896",
             "imsi": "722010105161674",
             "startTime": "1562698745",
@@ -120,7 +120,7 @@
          {
             "liid": "1167441531153266666",
             "number": "1167441531",
-            "numberType": "imei",
+            "numberType": "IMEI",
             "enrute": "1165887896",
             "imsi": "722010105143928",
             "startTime": "1532698745",
@@ -148,7 +148,7 @@
         {
             "liid": "1135746114153222222",
             "number": "1135746114",
-            "numberType": "telefono",
+            "numberType": "Telefono",
             "enrute": "1165887896",
             "imsi": "722010105161674",
             "startTime": "1532698745",
@@ -190,7 +190,7 @@
         {
             "liid": "11357461141562698745",
             "number": "1135746114",
-            "numberType": "telefono",
+            "numberType": "Telefono",
             "enrute": "1165887896",
             "imsi": "722010105161674",
             "startTime": "1562698745",
