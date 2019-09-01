@@ -64,51 +64,6 @@
             ]
         },
         {
-            "liid": "11357461141532698745",
-            "number": "1135746114",
-            "numberType": "Telefono",
-            "enrute": "1165887896",
-            "imsi": "722010105161674",
-            "startTime": "1532698745",
-            "endTime": "1619098",
-            "leaIP": "1.1.1.1",
-            "sms": false,
-            "voz": true,
-            "datos": false,
-            "status": "Desconectada",
-            "notes":[
-            	{
-            	"id":1,
-            	"detalle":"Es un usuario de movistar"
-            	}
-            ],
-                "dias": 4,
-           "hora":5,
-           "minutos":18,
-            "bitacora": [
-                {
-                    "id": 110,
-                    "number": "1135746114",
-                    "description": "Se dio de alta la intercepcion 11357461141532698745 para la línea 1135746114",
-                    "li_id": "11357461141532698745"
-                },
-                {
-                    "id": 111,
-                    "number": "1135746114",
-                    "descripcion": "Se dio de baja la intercepcion 11357461141532698745 para la línea 1135746114",
-                    "li_id": "11357461141532698745"
-                }
-            ],
-            "legalOrder": [
-                {
-                    "code": "OJ8397A48"
-                },
-                {
-                    "code": "OJ9B9895"
-                }
-            ]
-        },
-        {
             "liid": "113574611415626977777",
             "number": "1135746114",
             "numberType": "Telefono",
